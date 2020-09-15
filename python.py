@@ -47,3 +47,9 @@ else:
 
 
 
+'''it = random.uniform(0, 10)
+f hit <= 2:
+    damage = 0.00
+else:
+    damage = (hit - 2) / 8'''
+
